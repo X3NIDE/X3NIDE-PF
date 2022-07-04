@@ -26,3 +26,11 @@ section{
 #half-width-s2{
     width: 50%;
 }
+#top{
+    text-align: center;
+    background-color: rgba(83, 16, 16, 0.575);
+}
+#p-top{
+    text-align: center;
+    color: white;
+}
