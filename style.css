@@ -13,6 +13,7 @@ p{
     color: yellow;
     font-size: xx-large;
     border: 2px solid black;
+  
     
 }
 section{
@@ -29,10 +30,12 @@ section{
 #top{
     text-align: center;
     background-color: rgba(83, 16, 16, 0.575);
+ 
 }
 #p-top{
     text-align: center;
     color: white;
+    text-decoration: underline;
 }
 #lastsec{
     border-bottom: 10px solid white;
